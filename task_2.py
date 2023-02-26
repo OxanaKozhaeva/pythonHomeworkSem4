@@ -24,3 +24,6 @@ for i in range(n):
     if (garden_bed[i]+garden_bed[n-i-1]+garden_bed[n-i+1]) > three_bushes:
         three_bushes = garden_bed[i]+garden_bed[n-i-1]+garden_bed[n-i+1]
 print(three_bushes)
+
+Доброго времени суток, Кирилл! К сожалению, очень отстала по курсу.
+Но очень хотелось по-честному выполнять д/з. Задача про чернику не получилась.
